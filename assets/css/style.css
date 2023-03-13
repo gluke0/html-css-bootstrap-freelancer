@@ -8,6 +8,14 @@
     padding: 2rem;
 }
 
+.navbar .navbar-brand{
+    font-size: 1.7rem;
+}
+
+.navbar-toggler-icon{
+    color: white !important;
+}
+
 /* main */
 .start, .about{
     background-color: rgb(87, 185, 157);
@@ -28,6 +36,11 @@ img{
     margin: 0 auto;
    }
 
+.about .container-sm,
+.contact .container-sm{
+    padding: 0 7rem;
+}
+
     /* start */
 
 .start img{
@@ -44,11 +57,16 @@ img{
     width: 100%;
 }
 
-    /* about */
-.about .container-sm{
-    padding: 0 8rem;
+    /* contact me */
+.contact .form-control{
+    border: none;
+    border-bottom: 1px solid lightgray;
 }
 
-    /* contact me */
+.contact button{
+    background-color: rgb(87, 185, 157);
+    border: none
+}
+
 
 /* footer */
