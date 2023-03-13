@@ -1,10 +1,44 @@
+*{
+    font-family: sans-serif;
+}
+
 /* header */
-header .navbar{
+.navbar{
     background-color: rgb(44, 62, 80);
     padding: 2rem;
 }
 
 /* main */
 
+    /* start */
+.start{
+    background-color: rgb(87, 185, 157);
+}
+
+.start img{
+    width: 280px;
+    display: block;
+}
+
+.start h1{
+    font-size: 3rem;
+}
+
+.start .fa-star{
+    font-size: 1.5rem;
+}
+
+.rod{
+ width: 80px;
+ height: 4px;
+ border-radius: 8px;
+ margin: 0 auto;
+}
+
+    /* porfolio */
+
+    /* about */
+
+    /* contact me */
 
 /* footer */
