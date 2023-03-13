@@ -9,6 +9,9 @@
 }
 
 /* main */
+.start, .about{
+    background-color: rgb(87, 185, 157);
+}
 
 img{
     display: block;
@@ -26,9 +29,6 @@ img{
    }
 
     /* start */
-.start{
-    background-color: rgb(87, 185, 157);
-}
 
 .start img{
     width: 280px;
@@ -45,6 +45,9 @@ img{
 }
 
     /* about */
+.about .container-sm{
+    padding: 0 8rem;
+}
 
     /* contact me */
 
