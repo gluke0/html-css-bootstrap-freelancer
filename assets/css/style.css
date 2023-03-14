@@ -2,6 +2,7 @@
     font-family: sans-serif;
 }
 
+
 /* header */
 .navbar{
     background-color: rgb(44, 62, 80);
@@ -12,9 +13,6 @@
     font-size: 1.7rem;
 }
 
-.navbar-toggler-icon{
-    color: white !important;
-}
 
 /* main */
 .start, .about{
@@ -42,7 +40,6 @@ img{
 }
 
     /* start */
-
 .start img{
     width: 280px;
 }
