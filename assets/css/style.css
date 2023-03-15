@@ -80,9 +80,11 @@ img{
 .footer i{
     border: 1px solid white;
     border-radius: 50%;
+    display: inline-block;
     padding: 0.7rem;
     height: 40px;
     width: 40px;
+    cursor: pointer;
 }
 
 .footer .author{
