@@ -76,10 +76,6 @@ img{
     background-color: rgb(58, 84, 109);
 }
 
-.footer .foot2{
-    background-color: rgb(44, 62, 80)
-}
-
 .footer i{
     border: 1px solid white;
     border-radius: 50%;
@@ -87,6 +83,15 @@ img{
     height: 40px;
     width: 40px;
 }
+
+.footer .author{
+    color: rgb(87, 185, 157);
+}
+
+.footer .foot2{
+    background-color: rgb(44, 62, 80)
+}
+
 
 /* media query */
 
