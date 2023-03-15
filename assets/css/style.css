@@ -63,6 +63,7 @@ img{
 .contact .form-control{
     border: none;
     border-bottom: 1px solid lightgray;
+    border-radius: 0;
 }
 
 .contact button{
